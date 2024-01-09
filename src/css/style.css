@@ -1,0 +1,11 @@
+.alert {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 20px 8px;
+    background-color: green;
+    color: white;
+    width: 200px;
+    position: fixed;
+    
+    }
