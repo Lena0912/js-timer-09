@@ -1,5 +1,6 @@
 import '../css/style.css';
 
+
 const NOTIFICATION_DELAY = 3000;
 let timeoutId = null;
 

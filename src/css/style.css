@@ -9,3 +9,16 @@
     position: fixed;
     
     }
+    .color-switcher-btn {
+        padding: 10px 20px;
+        border-radius: 5px;
+        border: 1px solid red;
+        
+    }
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+
+    }
